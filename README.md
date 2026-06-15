@@ -19,12 +19,7 @@
 <img src="https://raw.githubusercontent.com/platane/snk/dev/github-contribution-grid-snake-dark.svg" width="400">
 </div>
 
-```
-    /\_/\    我是 W-cy
-   ( o.o )  一个做机器人的工程师
-    > ^ <   让机器人看得见、想得通、动得了
-   /|   |\
-```
+I build **intelligent robotic systems** that bridge computer vision and real-world actuation. From surgical instrument tracking to 3D depth sensing — I make robots **see**, **think**, and **act**.
 
 🔭 **Currently working on:**
 - 🏥 Surgical instrument real-time tracking & angle measurement
@@ -84,18 +79,19 @@
 
 ---
 
-## 🐱 Working Hard
+## 🐱 Coding Companion
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://media.tenor.com/images/4dbbbe7a76b172e7e0b149b2d69a0ddb/tenor.gif" width="200">
+<br/>
+<sub><i>每天都在认真写代码的月薪猫 🐱</i></sub>
 </div>
 
-```
-  ╱|、
- (˚ˎ 。7  
- |、˜〵          
- じしˍ,)ノ   <- 每天都在写代码
-```
+<div align="center">
+<img src="https://media.tenor.com/images/f25bf13c6d5b77e9e5dc78f13d731435/tenor.gif" width="200">
+<br/>
+<sub><i>Debugging mode activated 🐱💻</i></sub>
+</div>
 
 ---
 
@@ -121,28 +117,24 @@
 
 ---
 
-## 🐾 Code Companion
+## 🐾 Every Day
 
 <div align="center">
+<img src="https://media.tenor.com/images/82a0b8f4e4f6e6f8e6b0c4e8e6b0c4e8/tenor.gif" width="150">
+<br/>
+<sub><i>写代码的时候 🐱</i></sub>
+</div>
 
-```
-  /\_/\
- ( o.o )  <- 月薪猫在帮我review代码
-  > ^ <
- /|   |\\
-(_|   |_)
-```
+<div align="center">
+<img src="https://media.tenor.com/images/c4e8e6b0c4e8e6b0c4e8e6b0c4e8e6b0/tenor.gif" width="150">
+<br/>
+<sub><i>终于跑通了 🐱</i></sub>
+</div>
 
-*Every commit gets a purr of approval* 😸
-
-```
-    ╱|、      月薪猫の日常
-   (˚ˎ 。7
-   |、˜〵      早起写代码
-    じしˍ)ノ   中午debug
-              晚上commit
-```
-
+<div align="center">
+<img src="https://media.tenor.com/images/e6b0c4e8e6b0c4e8e6b0c4e8e6b0c4e8/tenor.gif" width="150">
+<br/>
+<sub><i>发现新bug 🐱</i></sub>
 </div>
 
 ---
@@ -153,9 +145,6 @@
 
 > *"The best surgical instruments are the ones the surgeon never notices."*
 > <br/>— Making technology invisible through precision.
-
-> *"Debugging is twice as hard as writing the code in the first place."*
-> <br/>— Brian Kernighan
 
 </div>
 
@@ -176,8 +165,6 @@
 <div align="center">
 
 ⭐ Star [MedVision](https://github.com/wcy-creator/medvision) if you find it useful!
-
-<img src="https://profile-counter.glitch.me/wcy-creator/count.svg" />
 
 **Made with 💜 and lots of ☕**
 
