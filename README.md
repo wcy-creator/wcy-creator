@@ -15,13 +15,16 @@
 
 ## 🐱 About Me
 
-```
-  ∧,,,∧
- ( ̳• · • ̳)
- /    づ♡   Hi! I'm W-cy
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/dev/github-contribution-grid-snake-dark.svg" width="400">
+</div>
 
-I build **intelligent robotic systems** that bridge computer vision and real-world actuation. From surgical instrument tracking to 3D depth sensing — I make robots **see**, **think**, and **act**.
+```
+    /\_/\    我是 W-cy
+   ( o.o )  一个做机器人的工程师
+    > ^ <   让机器人看得见、想得通、动得了
+   /|   |\
+```
 
 🔭 **Currently working on:**
 - 🏥 Surgical instrument real-time tracking & angle measurement
@@ -33,44 +36,22 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="120px">
+<div align="center">
 
-**Languages**
-<br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-A22866?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-</td>
-<td align="center" width="120px">
-
-**AI/ML**
-<br/>
-
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white)
-![MiMo](https://img.shields.io/badge/-MiMo-FF6700?style=flat&logoColor=white)
-
-</td>
-<td align="center" width="120px">
-
-**Robotics**
-<br/>
-
-![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-A22866?style=flat&logo=raspberrypi&logoColor=white)
-![OpenNI](https://img.shields.io/badge/-OpenNI2-009900?style=flat&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🐍 Featured Projects
+## 🐍 Featured Project
 
 <div align="center">
 
@@ -85,50 +66,36 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 <table>
 <tr>
 <td align="center">
-
-**🎯 Vision**
-<br/>Astra Pro RGB-D
-<br/>Color Detection + Kalman
-
+<img src="https://img.shields.io/badge/-Vision-00d4ff?style=flat-square&labelColor=0a0a1a" width="120"><br/>Astra Pro<br/>Color + Depth
 </td>
 <td align="center">
-
-**📐 Measurement**
-<br/>PCA Angle Detection
-<br/>±5° Precision
-
+<img src="https://img.shields.io/badge/-Track-00ff88?style=flat-square&labelColor=0a0a1a" width="120"><br/>Kalman Filter<br/>Real-time
 </td>
 <td align="center">
-
-**🤖 Control**
-<br/>CLB-S25 Servo
-<br/>PID Gimbal Tracking
-
+<img src="https://img.shields.io/badge/-Angle-FFD700?style=flat-square&labelColor=0a0a1a" width="120"><br/>PCA Detection<br/>±5° Precision
 </td>
 <td align="center">
-
-**🧠 AI**
-<br/>LLM Vision API
-<br/>MiMo Integration
-
+<img src="https://img.shields.io/badge/-Control-FF6B6B?style=flat-square&labelColor=0a0a1a" width="120"><br/>CLB-S25 Servo<br/>PID Gimbal
 </td>
 </tr>
 </table>
 
-```python
-# Quick demo
-from harness import GimbalTool, CameraTool, DetectTool, AngleTool
-
-camera = CameraTool(config)
-detect = DetectTool(config)
-angle = AngleTool(config)
-
-bgr = camera.capture()        # 640x480 frame
-result = detect.find(bgr)     # Target detection
-a = angle.measure(bgr)        # Opening angle: 48.4°
-```
-
 [![GitHub Stars](https://img.shields.io/github/stars/wcy-creator/medvision?style=social)](https://github.com/wcy-creator/medvision)
+
+---
+
+## 🐱 Working Hard
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+```
+  ╱|、
+ (˚ˎ 。7  
+ |、˜〵          
+ じしˍ,)ノ   <- 每天都在写代码
+```
 
 ---
 
@@ -144,32 +111,57 @@ a = angle.measure(bgr)        # Opening angle: 48.4°
 
 ---
 
-## 🎯 What I Believe
+## 🏆 Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=wcy-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+
+</div>
+
+---
+
+## 🐾 Code Companion
+
+<div align="center">
+
+```
+  /\_/\
+ ( o.o )  <- 月薪猫在帮我review代码
+  > ^ <
+ /|   |\\
+(_|   |_)
+```
+
+*Every commit gets a purr of approval* 😸
+
+```
+    ╱|、      月薪猫の日常
+   (˚ˎ 。7
+   |、˜〵      早起写代码
+    じしˍ)ノ   中午debug
+              晚上commit
+```
+
+</div>
+
+---
+
+## 💡 Philosophy
 
 <div align="center">
 
 > *"The best surgical instruments are the ones the surgeon never notices."*
 > <br/>— Making technology invisible through precision.
 
+> *"Debugging is twice as hard as writing the code in the first place."*
+> <br/>— Brian Kernighan
+
 </div>
 
 ---
 
-## 🐾 Fun Fact
-
-```
-    /\_/\
-   ( o.o )  <- My cat reviews my code
-    > ^ <
-   /|   |\\
-  (_|   |_)
-```
-
-*When I'm not debugging robots, I'm debugging my cat's keyboard skills.* 😸
-
----
-
-## 📫 Let's Connect
+## 📫 Connect
 
 <div align="center">
 
@@ -183,8 +175,10 @@ a = angle.measure(bgr)        # Opening angle: 48.4°
 
 <div align="center">
 
-**⭐ Star [MedVision](https://github.com/wcy-creator/medvision) if you find it useful!**
+⭐ Star [MedVision](https://github.com/wcy-creator/medvision) if you find it useful!
 
 <img src="https://profile-counter.glitch.me/wcy-creator/count.svg" />
+
+**Made with 💜 and lots of ☕**
 
 </div>
