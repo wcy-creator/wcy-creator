@@ -19,6 +19,12 @@
 <img src="https://raw.githubusercontent.com/platane/snk/dev/github-contribution-grid-snake-dark.svg" width="400">
 </div>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229381591-c86040b0-308a-45ef-bd44-600727bbb401.gif" width="300">
+
+<br/>
+
 I build **intelligent robotic systems** that bridge computer vision and real-world actuation. From surgical instrument tracking to 3D depth sensing — I make robots **see**, **think**, and **act**.
 
 🔭 **Currently working on:**
@@ -46,7 +52,7 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 
 ---
 
-## 🐍 Featured Project
+## 🐍 Featured Projects
 
 <div align="center">
 
@@ -79,16 +85,36 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 
 ---
 
+### 🎯 PiGimbal — Smart Gimbal Control Library
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcy-creator&repo=pigimbal&theme=tokyonight&hide_border=true" width="400">
+
+> **3-line Python library for Raspberry Pi gimbal control with PID tracking and Kalman filtering.**
+
+[![GitHub Stars](https://img.shields.io/github/stars/wcy-creator/pigimbal?style=social)](https://github.com/wcy-creator/pigimbal)
+
+---
+
+### 🤖 VisionAgent — LLM-Powered Visual Agent
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcy-creator&repo=visionagent&theme=tokyonight&hide_border=true" width="400">
+
+> **Connect cameras, detectors, and actuators to any LLM with 3 lines of code.**
+
+[![GitHub Stars](https://img.shields.io/github/stars/wcy-creator/visionagent?style=social)](https://github.com/wcy-creator/visionagent)
+
+---
+
 ## 🐱 Coding Companion
 
 <div align="center">
-<img src="https://media.tenor.com/images/4dbbbe7a76b172e7e0b149b2d69a0ddb/tenor.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/221345601-3867d13e-3c85-4f70-8546-b3b85d92388f.gif" width="200">
 <br/>
 <sub><i>每天都在认真写代码的月薪猫 🐱</i></sub>
 </div>
 
 <div align="center">
-<img src="https://media.tenor.com/images/f25bf13c6d5b77e9e5dc78f13d731435/tenor.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/229381591-c86040b0-308a-45ef-bd44-600727bbb401.gif" width="200">
 <br/>
 <sub><i>Debugging mode activated 🐱💻</i></sub>
 </div>
@@ -113,28 +139,6 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=wcy-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7)
 
-</div>
-
----
-
-## 🐾 Every Day
-
-<div align="center">
-<img src="https://media.tenor.com/images/82a0b8f4e4f6e6f8e6b0c4e8e6b0c4e8/tenor.gif" width="150">
-<br/>
-<sub><i>写代码的时候 🐱</i></sub>
-</div>
-
-<div align="center">
-<img src="https://media.tenor.com/images/c4e8e6b0c4e8e6b0c4e8e6b0c4e8e6b0/tenor.gif" width="150">
-<br/>
-<sub><i>终于跑通了 🐱</i></sub>
-</div>
-
-<div align="center">
-<img src="https://media.tenor.com/images/e6b0c4e8e6b0c4e8e6b0c4e8e6b0c4e8/tenor.gif" width="150">
-<br/>
-<sub><i>发现新bug 🐱</i></sub>
 </div>
 
 ---
@@ -167,5 +171,7 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 ⭐ Star [MedVision](https://github.com/wcy-creator/medvision) if you find it useful!
 
 **Made with 💜 and lots of ☕**
+
+</div>
 
 </div>
