@@ -17,26 +17,21 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/dev/github-contribution-grid-snake-dark.svg" width="400">
+## Hi, I'm W-cy 👋
 
-</div>
+### A Robotics Engineer who makes robots **see**, **think**, and **act**.
 
-<br/>
-
-<div align="center">
-
-> *Hi, I'm W-cy. A Robotics Engineer who makes robots **see**, **think**, and **act**.*
-> 
-> Interested in surgical robotics, edge AI, and LLM-powered agents.
+Interested in surgical robotics, edge AI, and LLM-powered agents.
 
 </div>
 
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=flat-square&logo=github&logoColor=white)](https://github.com/wcy-creator)
-[![Email](https://img.shields.io/badge/-EMAIL-3462649219%40QQ.COM-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:3462649219@qq.com)
+[![Email](https://img.shields.io/badge/-3462649219%40QQ.COM-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:3462649219@qq.com)
 [![MedVision](https://img.shields.io/badge/-MedVision-00ff88?style=flat-square&logo=github&logoColor=white)](https://github.com/wcy-creator/medvision)
 [![PiGimbal](https://img.shields.io/badge/-PiGimbal-FFD700?style=flat-square&logo=github&logoColor=white)](https://github.com/wcy-creator/pigimbal)
+[![VisionAgent](https://img.shields.io/badge/-VisionAgent-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://github.com/wcy-creator/visionagent)
 
 </div>
 
@@ -60,7 +55,11 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229381591-c86040b0-308a-45ef-bd44-600727bbb401.gif" width="200">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Coding.gif" width="300">
+
+*月薪猫在帮我写代码 🐱*
+
 </div>
 
 ---
@@ -77,8 +76,6 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-A22866?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
 
@@ -172,7 +169,7 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/221345601-3867d13e-3c85-4f70-8546-b3b85d92388f.gif" width="250">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Cats/CodingCat.gif" width="250">
 
 *每天都在认真写代码的月薪猫 🐱*
 
@@ -180,11 +177,11 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/221351597-d7e138fb-3e9c-4a94-b5c8-c8c8fe83c8c5.gif" width="150">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Cats/CatCoffee.gif" width="150">
 &nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/221352778-201b0f4a-4e98-4b0c-9f31-5ac0e8c0c0d0.gif" width="150">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Cats/SleepyCat.gif" width="150">
 &nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/221353988-41185195-88e3-47e8-b74c-4d26a0b2a4f9.gif" width="150">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Cats/WorkingCat.gif" width="150">
 
 </div>
 
@@ -209,7 +206,7 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wcy-creator)
-[![Email](https://img.shields.io/badge/-Email-3462649219%40QQ.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3462649219@qq.com)
+[![Email](https://img.shields.io/badge/-3462649219%40QQ.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3462649219@qq.com)
 [![MedVision](https://img.shields.io/badge/-MedVision-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wcy-creator/medvision)
 [![PiGimbal](https://img.shields.io/badge/-PiGimbal-00ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wcy-creator/pigimbal)
 [![VisionAgent](https://img.shields.io/badge/-VisionAgent-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wcy-creator/visionagent)
