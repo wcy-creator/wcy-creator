@@ -156,6 +156,16 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=wcy-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+
+</div>
+
+---
+
 ## 🐱 Coding Companion
 
 <div align="center">
