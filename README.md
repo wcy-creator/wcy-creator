@@ -42,7 +42,7 @@ Interested in surgical robotics, edge AI, and LLM-powered agents.
 
 ---
 
-## 🐱 $ whoami
+
 
 <div align="center">
 <img src="images/glasses.gif" width="200">
