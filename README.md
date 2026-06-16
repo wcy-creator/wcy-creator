@@ -4,12 +4,16 @@
 
 <br/>
 
-### 🔬 Robotics Engineer · AI Vision Researcher · Embedded Systems Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Robotics+Engineer+%F0%9F%A4%96;AI+Vision+Researcher+%F0%9F%91%81%3B%E2%9C%A8;Embedded+Systems+Developer+%F0%9F%92%BB;Building+Robots+That+See+and+Think+%F0%9F%A4%96;Let%27s+Code+Something+Amazing!+%E2%9A%A1" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=wcy-creator&color=00d4ff&style=flat-square&label=Profile+Views" alt="views">
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wcy-creator?tab=followers)
 [![Email](https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wcy-creator@github.com)
+
+</div>
 
 ---
 
@@ -21,9 +25,22 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229381591-c86040b0-308a-45ef-bd44-600727bbb401.gif" width="300">
+<div align="center">
+
+```
+    /\_/\    我是 W-cy
+   ( o.o )  一个做机器人的工程师
+    > ^ <   让机器人看得见、想得通、动得了
+   /|   |\
+```
+
+</div>
 
 <br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229381591-c86040b0-308a-45ef-bd44-600727bbb401.gif" width="300">
+</div>
 
 I build **intelligent robotic systems** that bridge computer vision and real-world actuation. From surgical instrument tracking to 3D depth sensing — I make robots **see**, **think**, and **act**.
 
@@ -39,20 +56,46 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-A22866?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table>
+<tr>
+<td align="center" width="120px">
+
+**Languages**
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+</td>
+<td align="center" width="120px">
+
+**AI/ML**
+<br/>
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![MiMo](https://img.shields.io/badge/-MiMo-FF6700?style=flat&logoColor=white)
+
+</td>
+<td align="center" width="120px">
+
+**Robotics**
+<br/>
+
+![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-A22866?style=flat&logo=raspberrypi&logoColor=white)
+![OpenNI](https://img.shields.io/badge/-OpenNI2-009900?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🐍 Featured Projects
+## 📂 Featured Projects
 
 <div align="center">
 
@@ -119,6 +162,24 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 <sub><i>Debugging mode activated 🐱💻</i></sub>
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221351597-d7e138fb-3e9c-4a94-b5c8-c8c8fe83c8c5.gif" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/221352778-201b0f4a-4e98-4b0c-9f31-5ac0e8c0c0d0.gif" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/221353988-41185195-88e3-47e8-b74c-4d26a0b2a4f9.gif" width="150">
+<br/>
+<sub><i>写代码 → debug → commit → 喝咖啡 → 循环 🔄</i></sub>
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wcy-creator&bg_color=0a0a1a&color=00d4ff&line=00ff88&point=FF6B6B&area=true&hide_border=false" width="95%">
+
+</div>
+
 ---
 
 ## 📊 Stats
@@ -128,6 +189,12 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 <img src="https://github-readme-stats.vercel.app/api?username=wcy-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=00d4ff&icon_color=00d4ff&text_color=e0e0e0" width="45%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wcy-creator&theme=tokyonight&hide_border=true&background=0a0a1a&ring=00d4ff&currStreakLabel=00ff88&fire=ff6700" width="45%">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcy-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=00d4ff&text_color=e0e0e0&layout=compact" width="45%">
 
 </div>
 
@@ -143,12 +210,45 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 
 ---
 
+## 🐾 Every Day
+
+<div align="center">
+
+```
+    /\_/\
+   ( o.o )  <- 月薪猫在帮我review代码
+    > ^ <
+   /|   |\\
+(_|   |_)
+```
+
+*Every commit gets a purr of approval* 😸
+
+</div>
+
+<div align="center">
+
+```
+    ╱|、      月薪猫の日常
+   (˚ˎ 。7
+   |、˜〵      早起写代码
+    じしˍ)ノ   中午debug
+              晚上commit
+```
+
+</div>
+
+---
+
 ## 💡 Philosophy
 
 <div align="center">
 
 > *"The best surgical instruments are the ones the surgeon never notices."*
 > <br/>— Making technology invisible through precision.
+
+> *"Debugging is twice as hard as writing the code in the first place."*
+> <br/>— Brian Kernighan
 
 </div>
 
@@ -169,6 +269,8 @@ I build **intelligent robotic systems** that bridge computer vision and real-wor
 <div align="center">
 
 ⭐ Star [MedVision](https://github.com/wcy-creator/medvision) if you find it useful!
+
+<img src="https://profile-counter.glitch.me/wcy-creator/count.svg" />
 
 **Made with 💜 and lots of ☕**
 
