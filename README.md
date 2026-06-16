@@ -156,11 +156,16 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=wcy-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+![Python](https://img.shields.io/badge/-Python%20Master-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Robotics](https://img.shields.io/badge/-Robotics%20Engineer-A22866?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![AI](https://img.shields.io/badge/-AI%20Researcher-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker%20Pro-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux%20Dev-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
