@@ -4,6 +4,12 @@
 
 <br/>
 
+<img src="images/funny.gif" width="150">
+<img src="images/funny.gif" width="150">
+<img src="images/funny.gif" width="150">
+
+<br/>
+
 ### 🔬 Robotics Engineer · AI Vision Researcher · Embedded Systems Developer
 
 <img src="https://komarev.com/ghpvc/?username=wcy-creator&color=00d4ff&style=flat-square&label=Profile+Views" alt="views">
@@ -37,6 +43,10 @@ Interested in surgical robotics, edge AI, and LLM-powered agents.
 ---
 
 ## 🐱 $ whoami
+
+<div align="center">
+<img src="images/glasses.gif" width="200">
+</div>
 
 ```bash
 $ whoami
@@ -142,6 +152,26 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wcy-creator&bg_color=0a0a1a&color=00d4ff&line=00ff88&point=FF6B6B&area=true&hide_border=false" width="95%">
 
+</div>
+
+---
+
+## 🐱 Coding Companion
+
+<div align="center">
+<img src="images/coding.gif" width="250">
+<br/>
+<sub><i>月薪猫在帮我写代码 🐱</i></sub>
+</div>
+
+<div align="center">
+<img src="images/energy.gif" width="180">
+&nbsp;&nbsp;
+<img src="images/coffee.gif" width="180">
+&nbsp;&nbsp;
+<img src="images/laptop.gif" width="180">
+<br/>
+<sub><i>写代码 → debug → commit → 喝咖啡 → 循环 🔄</i></sub>
 </div>
 
 ---
