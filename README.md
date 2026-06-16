@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=wcy-creator&color=00d4ff&style=flat-square&label=Profile+Views" alt="views">
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wcy-creator?tab=followers)
-[![Email](https://img.shields.io/badge/-Email-3462649219%40QQ.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3462649219@qq.com)
+[![Email](https://img.shields.io/badge/-Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3462649219@qq.com)
 
 </div>
 
@@ -27,7 +27,6 @@ Interested in surgical robotics, edge AI, and LLM-powered agents.
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=flat-square&logo=github&logoColor=white)](https://github.com/wcy-creator)
 [![Email](https://img.shields.io/badge/-3462649219%40QQ.COM-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:3462649219@qq.com)
 [![MedVision](https://img.shields.io/badge/-MedVision-00ff88?style=flat-square&logo=github&logoColor=white)](https://github.com/wcy-creator/medvision)
 [![PiGimbal](https://img.shields.io/badge/-PiGimbal-FFD700?style=flat-square&logo=github&logoColor=white)](https://github.com/wcy-creator/pigimbal)
@@ -53,14 +52,6 @@ $ current_focus
 $ stack
 Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 ```
-
-<div align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Coding.gif" width="300">
-
-*月薪猫在帮我写代码 🐱*
-
-</div>
 
 ---
 
@@ -155,38 +146,6 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=wcy-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
-## 🐱 Coding Companion
-
-<div align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Cats/CodingCat.gif" width="250">
-
-*每天都在认真写代码的月薪猫 🐱*
-
-</div>
-
-<div align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Cats/CatCoffee.gif" width="150">
-&nbsp;&nbsp;
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Cats/SleepyCat.gif" width="150">
-&nbsp;&nbsp;
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Images/Cats/WorkingCat.gif" width="150">
-
-</div>
-
----
-
 ## 💡 Philosophy
 
 <div align="center">
@@ -218,8 +177,6 @@ Python / C++ / JavaScript / OpenCV / YOLOv5 / Docker / Raspberry Pi
 <div align="center">
 
 ⭐ Star [MedVision](https://github.com/wcy-creator/medvision) if you find it useful!
-
-<img src="https://profile-counter.glitch.me/wcy-creator/count.svg" />
 
 **Made with 💜 and lots of ☕**
 
